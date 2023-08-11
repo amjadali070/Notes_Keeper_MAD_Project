@@ -1,4 +1,4 @@
-package com.adityaamolbavadekar.android.apps.culture
+package com.amjadali070.android.apps.culture
 
 import org.junit.Test
 
